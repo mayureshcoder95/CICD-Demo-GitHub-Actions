@@ -7,6 +7,7 @@ on:
         type: string
         reuired: true
         default: 'Android Debug Build'
+        description: 'Release Notes'
 
 jobs:
   build:
